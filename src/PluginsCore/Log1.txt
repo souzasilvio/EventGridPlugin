@@ -1,0 +1,349 @@
+14:44:28	Deploying Plugins
+14:44:28	Searching for plugin config in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+14:44:28	Using Config 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore'
+14:44:28	Processed 1 config(s)
+14:50:43	Deploying Plugins
+14:50:43	Searching for plugin config in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+14:50:43	Using Config 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore'
+14:50:43	Processed 1 config(s)
+14:54:12	Deploying Plugins
+14:54:12	Searching for plugin config in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+14:54:13	Using Config 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore'
+14:54:13	Processed 1 config(s)
+14:57:11	Downloading Plugin/Workflow Activity Metadata
+14:57:11	Searching for classes in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+14:57:12	Found Plugin Type Registration PluginsCore.AutoNumeracao.AutoNumero
+14:57:13	Found Plugin Type Registration PluginsCore.Cliente.AtualizaEnderecoSAP
+14:57:13	Found Plugin Type Registration PluginsCore.Cliente.AtualizaNomeContratosRelacionados
+14:57:13	Found Plugin Type Registration PluginsCore.Cliente.ConcatenarNomeCpf
+14:57:14	Found Plugin Type Registration PluginsCore.Cliente.ValidaAtribuicao
+14:57:14	Found Plugin Type Registration PluginsCore.Cliente.ValidaCpfCnpjDuplicado
+14:57:14	Found Plugin Type Registration PluginsCore.Cliente.ValidaExclusao
+14:57:15	Found Plugin Type Registration PluginsCore.Mrv_Teste.ValidaNomeDuplicado
+14:57:16	Found Plugin Type Registration PluginsCore.Mrv_Teste.ValidaPreenchimentoCampoNome
+14:57:18	Found Plugin Type Registration PluginsCore.Tests.TestPluginContext
+14:57:18	10 classes decorated with deployment attributes!
+15:00:17	Downloading Plugin/Workflow Activity Metadata
+15:00:17	Searching for classes in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+15:00:18	Found Plugin Type Registration PluginsCore.AutoNumeracao.AutoNumero
+15:00:18	Found Plugin Type Registration PluginsCore.Cliente.AtualizaEnderecoSAP
+15:00:19	Found Plugin Type Registration PluginsCore.Cliente.AtualizaNomeContratosRelacionados
+15:00:19	Found Plugin Type Registration PluginsCore.Cliente.ConcatenarNomeCpf
+15:00:19	Found Plugin Type Registration PluginsCore.Cliente.ValidaAtribuicao
+15:00:19	Found Plugin Type Registration PluginsCore.Cliente.ValidaCpfCnpjDuplicado
+15:00:19	Found Plugin Type Registration PluginsCore.Cliente.ValidaExclusao
+15:00:20	Found Plugin Type Registration PluginsCore.Mrv_Teste.ValidaNomeDuplicado
+15:00:20	Found Plugin Type Registration PluginsCore.Mrv_Teste.ValidaPreenchimentoCampoNome
+15:00:21	Found Plugin Type Registration PluginsCore.Tests.TestPluginContext
+15:00:21	10 classes decorated with deployment attributes!
+15:02:21	Deploying Plugins
+15:02:21	Searching for plugin config in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+15:02:21	Using Config 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins'
+15:02:21	Checking assembly 'PluginsCore.dll' for plugins
+15:02:21	10 plugin(s) found!
+15:02:21	Checking for orphaned PluginTypes: 'PluginsCore' 
+15:02:22	Updating Plugin 'PluginsCore' from 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\bin\Debug\PluginsCore.dll'
+15:02:23	Updating Type 'PluginsCore.Mrv_Teste.ValidaNomeDuplicado'
+15:02:24	Registering Step 'Create Step'
+15:02:25	Registering Step 'Update Step'
+15:02:25	Deleting step 'PluginsCore.Mrv_Teste.ValidaNomeDuplicado: Create of mrv_teste'
+15:02:26	Deleting step 'PluginsCore.Mrv_Teste.ValidaNomeDuplicado: Update of mrv_teste'
+15:02:27	Checking assembly 'Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll' for plugins
+15:09:47	Deploying Plugins
+15:09:47	Searching for plugin config in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+15:09:48	Using Config 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins'
+15:09:48	Checking assembly 'PluginsCore.dll' for plugins
+15:09:48	10 plugin(s) found!
+15:09:48	Checking for orphaned PluginTypes: 'PluginsCore' 
+15:09:48	Updating Plugin 'PluginsCore' from 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\bin\Debug\PluginsCore.dll'
+15:09:49	Updating Type 'PluginsCore.Mrv_Teste.ValidaNomeDuplicado'
+15:09:50	Updating Step 'Create Step'
+15:09:51	Updating Step 'Update Step'
+15:09:52	Checking assembly 'Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll' for plugins
+15:16:30	Deploying Plugins
+15:16:30	Searching for plugin config in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+15:16:31	Using Config 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins'
+15:16:31	Checking assembly 'PluginsCore.dll' for plugins
+15:16:31	10 plugin(s) found!
+15:16:31	Checking for orphaned PluginTypes: 'PluginsCore' 
+15:16:31	Updating Plugin 'PluginsCore' from 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\bin\Debug\PluginsCore.dll'
+15:16:32	Updating Type 'PluginsCore.Mrv_Teste.ValidaNomeDuplicado'
+15:16:32	Updating Step 'Create Step'
+15:16:33	Updating Step 'Update Step'
+15:16:33	Checking assembly 'Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll' for plugins
+15:17:17	Deploying Plugins
+15:17:17	Searching for plugin config in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+15:17:17	Using Config 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins'
+15:17:18	Checking assembly 'PluginsCore.dll' for plugins
+15:17:18	10 plugin(s) found!
+15:17:18	Checking for orphaned PluginTypes: 'PluginsCore' 
+15:17:18	Updating Plugin 'PluginsCore' from 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\bin\Debug\PluginsCore.dll'
+15:17:19	Updating Type 'PluginsCore.Mrv_Teste.ValidaNomeDuplicado'
+15:17:20	Updating Step 'Create Step'
+15:17:21	Updating Step 'Update Step'
+15:17:21	Checking assembly 'Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll' for plugins
+15:19:05	Deploying Plugins
+15:19:05	Searching for plugin config in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+15:19:06	Using Config 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins'
+15:19:06	Checking assembly 'PluginsCore.dll' for plugins
+15:19:06	10 plugin(s) found!
+15:19:06	Checking for orphaned PluginTypes: 'PluginsCore' 
+15:19:06	Updating Plugin 'PluginsCore' from 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\bin\Debug\PluginsCore.dll'
+15:19:07	Updating Type 'PluginsCore.Mrv_Teste.ValidaNomeDuplicado'
+15:19:08	Updating Step 'Create Step'
+15:19:08	Updating Step 'Update Step'
+15:19:09	Checking assembly 'Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll' for plugins
+15:19:50	Downloading Plugin/Workflow Activity Metadata
+15:19:50	Searching for classes in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+15:19:51	Found Plugin Type Registration PluginsCore.AutoNumeracao.AutoNumero
+15:19:51	Found Plugin Type Registration PluginsCore.Cliente.AtualizaEnderecoSAP
+15:19:51	Found Plugin Type Registration PluginsCore.Cliente.AtualizaNomeContratosRelacionados
+15:19:52	Found Plugin Type Registration PluginsCore.Cliente.ConcatenarNomeCpf
+15:19:52	Found Plugin Type Registration PluginsCore.Cliente.ValidaAtribuicao
+15:19:52	Found Plugin Type Registration PluginsCore.Cliente.ValidaCpfCnpjDuplicado
+15:19:52	Found Plugin Type Registration PluginsCore.Cliente.ValidaExclusao
+15:19:52	Found Plugin Type Registration PluginsCore.Mrv_Teste.ValidaNomeDuplicado
+15:19:53	Found Plugin Type Registration PluginsCore.Mrv_Teste.ValidaPreenchimentoCampoNome
+15:19:54	Found Plugin Type Registration PluginsCore.Tests.TestPluginContext
+15:19:54	10 classes decorated with deployment attributes!
+15:24:39	Deploying Plugins
+15:24:39	Searching for plugin config in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+15:24:40	Using Config 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins'
+15:24:40	Checking assembly 'PluginsCore.dll' for plugins
+15:24:40	10 plugin(s) found!
+15:24:40	Checking for orphaned PluginTypes: 'PluginsCore' 
+15:24:40	Updating Plugin 'PluginsCore' from 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\bin\Debug\PluginsCore.dll'
+15:24:42	Updating Type 'PluginsCore.Mrv_Teste.ValidaNomeDuplicado'
+15:24:42	Updating Step 'Create Step'
+15:24:43	Updating Step 'Update Step'
+15:24:44	Checking assembly 'Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll' for plugins
+15:37:03	Deploying Plugins
+15:37:03	Searching for plugin config in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+15:37:04	Using Config 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins'
+15:37:04	Checking assembly 'PluginsCore.dll' for plugins
+15:37:04	10 plugin(s) found!
+15:37:04	Checking for orphaned PluginTypes: 'PluginsCore' 
+15:37:04	Updating Plugin 'PluginsCore' from 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\bin\Debug\PluginsCore.dll'
+15:37:05	Updating Type 'PluginsCore.Mrv_Teste.ValidaNomeDuplicado'
+15:37:06	Updating Step 'Create Step'
+15:37:06	Updating Step 'Update Step'
+15:37:07	Checking assembly 'Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll' for plugins
+16:34:32	Downloading Plugin/Workflow Activity Metadata
+16:34:32	Searching for classes in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+16:34:32	Found Plugin Type Registration PluginsCore.AutoNumeracao.AutoNumero
+16:34:32	Found Plugin Type Registration PluginsCore.Cliente.AtualizaEnderecoSAP
+16:34:33	Found Plugin Type Registration PluginsCore.Cliente.AtualizaNomeContratosRelacionados
+16:34:33	Found Plugin Type Registration PluginsCore.Cliente.ConcatenarNomeCpf
+16:34:34	Found Plugin Type Registration PluginsCore.Cliente.ValidaAtribuicao
+16:34:35	Found Plugin Type Registration PluginsCore.Cliente.ValidaCpfCnpjDuplicado
+16:34:35	Found Plugin Type Registration PluginsCore.Cliente.ValidaExclusao
+16:34:35	Found Plugin Type Registration PluginsCore.Mrv_Teste.ValidaNomeDuplicado
+16:34:37	Found Plugin Type Registration PluginsCore.Mrv_Teste.ValidaPreenchimentoCampoNome
+16:34:37	Found Plugin Type Registration PluginsCore.Tests.TestPluginContext
+16:34:37	10 classes decorated with deployment attributes!
+16:35:48	Downloading Plugin/Workflow Activity Metadata
+16:35:48	Searching for classes in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+16:35:48	Found Plugin Type Registration PluginsCore.AutoNumeracao.AutoNumero
+16:35:49	Found Plugin Type Registration PluginsCore.Cliente.AtualizaEnderecoSAP
+16:35:49	Found Plugin Type Registration PluginsCore.Cliente.AtualizaNomeContratosRelacionados
+16:35:50	Found Plugin Type Registration PluginsCore.Cliente.ConcatenarNomeCpf
+16:35:50	Found Plugin Type Registration PluginsCore.Cliente.ValidaAtribuicao
+16:35:50	Found Plugin Type Registration PluginsCore.Cliente.ValidaCpfCnpjDuplicado
+16:35:51	Found Plugin Type Registration PluginsCore.Cliente.ValidaExclusao
+16:35:51	Found Plugin Type Registration PluginsCore.Mrv_Teste.ValidaNomeDuplicado
+16:35:52	Found Plugin Type Registration PluginsCore.Mrv_Teste.ValidaPreenchimentoCampoNome
+16:35:53	Found Plugin Type Registration PluginsCore.Tests.TestPluginContext
+16:35:53	10 classes decorated with deployment attributes!
+16:39:52	Downloading Plugin/Workflow Activity Metadata
+16:39:52	Searching for classes in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+16:39:52	Found Plugin Type Registration PluginsCore.AutoNumeracao.AutoNumero
+16:39:53	Found Plugin Type Registration PluginsCore.Cliente.AtualizaEnderecoSAP
+16:39:54	Found Plugin Type Registration PluginsCore.Cliente.AtualizaNomeContratosRelacionados
+16:39:54	Found Plugin Type Registration PluginsCore.Cliente.ConcatenarNomeCpf
+16:39:55	Found Plugin Type Registration PluginsCore.Cliente.ValidaAtribuicao
+16:39:55	Found Plugin Type Registration PluginsCore.Cliente.ValidaCpfCnpjDuplicado
+16:39:55	Found Plugin Type Registration PluginsCore.Cliente.ValidaExclusao
+16:39:55	Found Plugin Type Registration PluginsCore.Mrv_Teste.ValidaNomeDuplicado
+16:39:56	Found Plugin Type Registration PluginsCore.Mrv_Teste.ValidaPreenchimentoCampoNome
+16:39:57	Found Plugin Type Registration PluginsCore.Tests.TestPluginContext
+16:39:57	10 classes decorated with deployment attributes!
+16:50:39	Deploying Plugins
+16:50:39	Searching for plugin config in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+16:50:40	Using Config 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins'
+16:50:40	Checking assembly 'PluginsCore.dll' for plugins
+16:50:40	10 plugin(s) found!
+16:50:40	Checking for orphaned PluginTypes: 'PluginsCore' 
+16:50:40	Updating Plugin 'PluginsCore' from 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\bin\Debug\PluginsCore.dll'
+16:50:45	Updating Type 'PluginsCore.Mrv_Teste.ValidaNomeDuplicado'
+16:50:46	Updating Step 'Create Step'
+16:50:48	Updating Step 'Update Step'
+16:50:49	Checking assembly 'Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll' for plugins
+16:58:50	Downloading Plugin/Workflow Activity Metadata
+16:58:50	Searching for classes in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+16:58:51	Found Plugin Type Registration PluginsCore.AutoNumeracao.AutoNumero
+16:58:51	Found Plugin Type Registration PluginsCore.Cliente.AtualizaEnderecoSAP
+16:58:52	Found Plugin Type Registration PluginsCore.Cliente.AtualizaNomeContratosRelacionados
+16:58:53	Found Plugin Type Registration PluginsCore.Cliente.ConcatenarNomeCpf
+16:58:53	Found Plugin Type Registration PluginsCore.Cliente.ValidaAtribuicao
+16:58:54	Found Plugin Type Registration PluginsCore.Cliente.ValidaCpfCnpjDuplicado
+16:58:54	Found Plugin Type Registration PluginsCore.Cliente.ValidaExclusao
+16:58:55	Found Plugin Type Registration PluginsCore.Mrv_Teste.ValidaNomeDuplicado
+16:58:56	Found Plugin Type Registration PluginsCore.Mrv_Teste.ValidaPreenchimentoCampoNome
+16:58:57	Found Plugin Type Registration PluginsCore.Tests.TestPluginContext
+16:58:57	10 classes decorated with deployment attributes!
+17:02:03	Downloading Plugin/Workflow Activity Metadata
+17:02:03	Searching for classes in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+17:02:04	Found Plugin Type Registration PluginsCore.AutoNumeracao.AutoNumero
+17:02:04	Found Plugin Type Registration PluginsCore.Cliente.AtualizaEnderecoSAP
+17:02:04	Found Plugin Type Registration PluginsCore.Cliente.AtualizaNomeContratosRelacionados
+17:02:04	Found Plugin Type Registration PluginsCore.Cliente.ConcatenarNomeCpf
+17:02:04	Found Plugin Type Registration PluginsCore.Cliente.ValidaAtribuicao
+17:02:04	Found Plugin Type Registration PluginsCore.Cliente.ValidaCpfCnpjDuplicado
+17:02:05	Found Plugin Type Registration PluginsCore.Cliente.ValidaExclusao
+17:02:05	Found Plugin Type Registration PluginsCore.Mrv_Teste.ValidaNomeDuplicado
+17:02:05	Found Plugin Type Registration PluginsCore.Mrv_Teste.ValidaPreenchimentoCampoNome
+17:02:06	9 classes decorated with deployment attributes!
+17:03:28	Deploying Plugins
+17:03:28	Searching for plugin config in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+17:03:28	Using Config 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins'
+17:03:28	Checking assembly 'PluginsCore.dll' for plugins
+17:03:28	10 plugin(s) found!
+17:03:29	Checking for orphaned PluginTypes: 'PluginsCore' 
+17:03:29	Updating Plugin 'PluginsCore' from 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\bin\Debug\PluginsCore.dll'
+17:03:30	Updating Type 'PluginsCore.Mrv_Teste.ValidaNomeDuplicado'
+17:03:31	Updating Step 'Create Step'
+17:03:31	Updating Step 'Update Step'
+17:03:32	Checking assembly 'Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll' for plugins
+17:47:52	Deploying Plugins
+17:47:52	Searching for plugin config in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+17:47:52	Using Config 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins'
+17:47:52	Checking assembly 'PluginsCore.dll' for plugins
+17:47:52	10 plugin(s) found!
+17:47:52	Checking for orphaned PluginTypes: 'PluginsCore' 
+17:47:52	Updating Plugin 'PluginsCore' from 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\bin\Debug\PluginsCore.dll'
+17:47:55	Updating Type 'PluginsCore.Mrv_Teste.ValidaNomeDuplicado'
+17:47:55	Updating Step 'Create Step'
+17:47:56	Updating Step 'Update Step'
+17:47:57	Checking assembly 'Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll' for plugins
+17:51:08	Deploying Plugins
+17:51:08	Searching for plugin config in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+17:51:08	Using Config 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins'
+17:51:08	Checking assembly 'PluginsCore.dll' for plugins
+17:51:08	10 plugin(s) found!
+17:51:08	Checking for orphaned PluginTypes: 'PluginsCore' 
+17:51:09	Updating Plugin 'PluginsCore' from 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\bin\Debug\PluginsCore.dll'
+17:51:10	Updating Type 'PluginsCore.Mrv_Teste.ValidaNomeDuplicado'
+17:51:11	Updating Step 'Create Step'
+17:51:13	Updating Step 'Update Step'
+17:51:13	Checking assembly 'Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll' for plugins
+17:53:41	Deploying Plugins
+17:53:41	Searching for plugin config in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+17:53:41	Using Config 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins'
+17:53:41	Checking assembly 'PluginsCore.dll' for plugins
+17:53:41	10 plugin(s) found!
+17:53:41	Registering Plugin 'PluginsCore' from 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\bin\Debug\PluginsCore.dll'
+17:53:44	Registering Type 'PluginsCore.Mrv_Teste.ValidaNomeDuplicado'
+17:53:45	Registering Step 'Create Step'
+17:53:46	Registering Step 'Update Step'
+17:53:47	Checking assembly 'Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll' for plugins
+17:55:34	Deploying Plugins
+17:55:34	Searching for plugin config in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+17:55:34	Using Config 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins'
+17:55:34	Checking assembly 'PluginsCore.dll' for plugins
+17:55:34	10 plugin(s) found!
+17:55:35	Checking for orphaned PluginTypes: 'PluginsCore' 
+17:55:35	Updating Plugin 'PluginsCore' from 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\bin\Debug\PluginsCore.dll'
+17:55:40	Registering Type 'PluginsCore.Cliente.ValidaExclusao'
+17:55:40	Registering Step 'Delete Step'
+17:55:41	Checking assembly 'Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll' for plugins
+17:58:20	Deploying Plugins
+17:58:20	Searching for plugin config in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+17:58:21	Using Config 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins'
+17:58:21	Checking assembly 'PluginsCore.dll' for plugins
+17:58:21	10 plugin(s) found!
+17:58:21	Checking for orphaned PluginTypes: 'PluginsCore' 
+17:58:22	Updating Plugin 'PluginsCore' from 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\bin\Debug\PluginsCore.dll'
+17:58:24	Updating Type 'PluginsCore.Cliente.ValidaExclusao'
+17:58:25	Updating Step 'Delete Step'
+17:58:25	Checking assembly 'Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll' for plugins
+18:00:16	Deploying Plugins
+18:00:16	Searching for plugin config in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+18:00:16	Using Config 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins'
+18:00:16	Checking assembly 'PluginsCore.dll' for plugins
+18:00:16	10 plugin(s) found!
+18:00:16	Checking for orphaned PluginTypes: 'PluginsCore' 
+18:00:16	Updating Plugin 'PluginsCore' from 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\bin\Debug\PluginsCore.dll'
+18:00:18	Updating Type 'PluginsCore.Cliente.ValidaExclusao'
+18:00:18	Updating Step 'Delete Step'
+18:00:20	Checking assembly 'Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll' for plugins
+18:10:13	Deploying Plugins
+18:10:13	Searching for plugin config in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+18:10:13	Using Config 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins'
+18:10:13	Checking assembly 'PluginsCore.dll' for plugins
+18:10:13	10 plugin(s) found!
+18:10:13	Checking for orphaned PluginTypes: 'PluginsCore' 
+18:10:13	Updating Plugin 'PluginsCore' from 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\bin\Debug\PluginsCore.dll'
+18:10:15	Updating Type 'PluginsCore.Cliente.ValidaExclusao'
+18:10:17	Registering Step 'Delete Step'
+18:10:18	Checking assembly 'Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll' for plugins
+08:44:03	Deploying Plugins
+08:44:03	Searching for plugin config in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+08:44:03	Using Config 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins'
+08:44:03	Checking assembly 'PluginsCore.dll' for plugins
+08:44:03	10 plugin(s) found!
+08:44:04	Checking for orphaned PluginTypes: 'PluginsCore' 
+08:44:04	Updating Plugin 'PluginsCore' from 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\bin\Debug\PluginsCore.dll'
+08:44:05	Updating Type 'PluginsCore.Cliente.ValidaExclusao'
+08:44:06	Updating Step 'Delete Step'
+08:44:07	Checking assembly 'Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll' for plugins
+08:48:20	Deploying Plugins
+08:48:20	Searching for plugin config in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+08:48:20	Using Config 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins'
+08:48:21	Checking assembly 'PluginsCore.dll' for plugins
+08:48:21	10 plugin(s) found!
+08:48:21	Checking for orphaned PluginTypes: 'PluginsCore' 
+08:48:21	Updating Plugin 'PluginsCore' from 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\bin\Debug\PluginsCore.dll'
+08:48:22	Updating Type 'PluginsCore.Cliente.ValidaExclusao'
+08:48:22	Updating Step 'Delete Step'
+08:48:23	Checking assembly 'Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll' for plugins
+08:48:48	Downloading Plugin/Workflow Activity Metadata
+08:48:48	Searching for classes in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+08:48:49	Found Plugin Type Registration PluginsCore.AutoNumeracao.AutoNumero
+08:48:49	Found Plugin Type Registration PluginsCore.Cliente.AtualizaEnderecoSAP
+08:48:50	Found Plugin Type Registration PluginsCore.Cliente.AtualizaNomeContratosRelacionados
+08:48:50	Found Plugin Type Registration PluginsCore.Cliente.ConcatenarNomeCpf
+08:48:50	Found Plugin Type Registration PluginsCore.Cliente.ValidaAtribuicao
+08:48:51	Found Plugin Type Registration PluginsCore.Cliente.ValidaCpfCnpjDuplicado
+08:48:52	Found Plugin Type Registration PluginsCore.Cliente.ValidaExclusao
+08:48:53	Found Plugin Type Registration PluginsCore.Mrv_Teste.ValidaNomeDuplicado
+08:48:53	Found Plugin Type Registration PluginsCore.Mrv_Teste.ValidaPreenchimentoCampoNome
+08:48:54	Found Plugin Type Registration PluginsCore.Tests.TestPluginContext
+08:48:54	10 classes decorated with deployment attributes!
+08:52:51	Deploying Plugins
+08:52:51	Searching for plugin config in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+08:52:51	Using Config 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins'
+08:52:51	Checking assembly 'PluginsCore.dll' for plugins
+08:52:51	10 plugin(s) found!
+08:52:52	Checking for orphaned PluginTypes: 'PluginsCore' 
+08:52:52	Updating Plugin 'PluginsCore' from 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\bin\Release\PluginsCore.dll'
+08:52:53	Registering Type 'PluginsCore.Cliente.ValidaAtribuicao'
+08:52:54	Registering Step 'Delete Step'
+08:52:55	Registering Image 'IMAGEPRE'
+08:52:55	Updating Type 'PluginsCore.Cliente.ValidaExclusao'
+08:52:56	Updating Step 'Delete Step'
+08:52:56	Checking assembly 'Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll' for plugins
+09:03:32	Deploying Plugins
+09:03:32	Searching for plugin config in 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\..'
+09:03:32	Using Config 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins'
+09:03:32	Checking assembly 'PluginsCore.dll' for plugins
+09:03:32	10 plugin(s) found!
+09:03:33	Checking for orphaned PluginTypes: 'PluginsCore' 
+09:03:33	Updating Plugin 'PluginsCore' from 'D:\Trabalho\MRV\com_crm365_plugins\src\MRV.Crm365.Plugins\PluginsCore\bin\Release\PluginsCore.dll'
+09:03:34	Updating Type 'PluginsCore.Cliente.ValidaAtribuicao'
+09:03:35	Registering Step 'Assign Step'
+09:03:36	Registering Image 'IMAGEPRE'
+09:03:36	Registering Step 'Update Step'
+09:03:37	Registering Image 'IMAGEPRE'
+09:03:37	Updating Type 'PluginsCore.Cliente.ValidaExclusao'
+09:03:37	Updating Step 'Delete Step'
+09:03:38	Checking assembly 'Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll' for plugins
